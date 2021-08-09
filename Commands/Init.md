@@ -4,7 +4,6 @@ The 'git init' command is used to create and empty git repository.
 
 If you wanted to create a new directory and initialize a git repository, you cann do so with the following commands:
 ...
-
 mkdir NewDirectory
 cd NewDirectory
 git init
