@@ -24,4 +24,4 @@ git status
 
 ---
 
-[Back to home](.//REDME.md)
+[Back to home](../README.md)
