@@ -20,9 +20,9 @@ git remote add origin https:githubElevenFiftyAcademy/GitFundimentals.git
 
 A remote can be removed with the 'git remote remove' command, followed by the name f the remote.
 
-...
+'''
 git remote remove origin
-...
+'''
 
 ## Resources
 
